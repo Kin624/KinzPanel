@@ -1,1 +1,1 @@
-return {["test"]={["device"]="123",["password"]="test",["expiry"]="16/02/2026",["sid"]="123"},["kinzi"]={["device"]="1771033509",["password"]="cpm123",["expiry"]="01/01/2099",["sid"]="2"},["kinzip"]={["device"]="1771033509",["password"]="cpm",["expiry"]="19/03/2026",["sid"]="2"}}
+return {["test"]={["device"]="123",["password"]="test",["expiry"]="16/02/2026",["sid"]="123"},["kinzi"]={["device"]="1771033509",["password"]="cpm123",["expiry"]="01/01/2099",["sid"]="2"},["kinzip"]={["device"]="1771033509",["password"]="cpm",["expiry"]="01/01/2099",["sid"]="2"}}
